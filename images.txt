@@ -4,3 +4,15 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+
+hectorqin/reader
+superng6/qbittorrentee:latest
+
+ghcr.io/hoarder-app/hoarder-web:release
+gcr.io/zenika-hub/alpine-chrome:123
+getmeili/meilisearch:v1.6
+ghcr.io/hoarder-app/hoarder-workers:release
+
+ghcr.io/monlor/xiaoya-alist:latest
+ghcr.io/monlor/xiaoya-metadata:latest
+ghcr.io/monlor/xiaoya-embyserver:latest
