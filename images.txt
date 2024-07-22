@@ -1,6 +1,56 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+# alist
 xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+# aria2
+superng6/aria2:latest
+# baidunetdisk
+johngong/baidunetdisk:latest
+# clash
+dreamacro/clash:latest
+# dockge
+louislam/dockge:latest
+# dpanel
+dpanel/dpanel:latest
+# dweebui
+lllllllillllllillll/dweebui:latest
+# filebrowser
+filebrowser/filebrowser:latest
+# hoarder
+ghcr.io/hoarder-app/hoarder-web:release
+redis:7.2-alpine
+gcr.io/zenika-hub/alpine-chrome:123
+getmeili/meilisearch:v1.6
+ghcr.io/hoarder-app/hoarder-workers::release
+# iotop
+esnunes/iotop:latest
+# mariadb
+mariadb:latest
+# memos
+ghcr.io/usememos/memos:latest
+# metube
+alexta69/metube:latest
+# mongo
+mongo:4.0.4
+# mysql-cron-backup
+fradelg/mysql-cron-backup:latest
+# nginx-proxy-manager
+jc21/nginx-proxy-manager:latest
+# nodejs
+gplane/pnpm:node21
+# pgyvpn
+bestoray/pgyvpn:latest
+# portainer
+portainer/portainer-ce:latest
+# qbittorrentee
+superng6/qbittorrentee:latest
+# rclone-115
+gaoyb7/rclone:latest
+# reader
+hectorqin/reader:latest
+# stash
+stashapp/stash:latest
+# wallabag
+wallabag/wallabag:latest
+# xiaoya
+ghcr.io/monlor/xiaoya-alist:latest
+ghcr.io/monlor/xiaoya-metadata:latest
+ghcr.io/monlor/xiaoya-embyserver:latest
