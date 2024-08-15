@@ -1,5 +1,7 @@
 # alist
 xhofe/alist:latest
+# aliyunpan-sync
+tickstep/aliyunpan-sync:latest
 # aria2
 superng6/aria2:latest
 # baidunetdisk
