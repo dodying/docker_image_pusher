@@ -8,6 +8,8 @@ superng6/aria2:latest
 johngong/baidunetdisk:latest
 # clash
 dreamacro/clash:latest
+# dashdot
+mauricenino/dashdot:latest
 # dockge
 louislam/dockge:latest
 # dpanel
