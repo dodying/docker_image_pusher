@@ -28,6 +28,8 @@ ghcr.io/hoarder-app/hoarder-workers:release
 esnunes/iotop:latest
 # mariadb
 mariadb:latest
+# melody
+foamzou/melody:latest
 # memos
 ghcr.io/usememos/memos:latest
 # metube
