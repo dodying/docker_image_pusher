@@ -1,3 +1,5 @@
+# 115pc
+funcman/115pc:latest
 # alist
 xhofe/alist:latest
 # aliyunpan-sync
@@ -19,11 +21,9 @@ lllllllillllllillll/dweebui:latest
 # filebrowser
 filebrowser/filebrowser:latest
 # hoarder
-ghcr.io/hoarder-app/hoarder-web:release
-redis:7.2-alpine
+ghcr.io/hoarder-app/hoarder:release
 gcr.io/zenika-hub/alpine-chrome:123
 getmeili/meilisearch:v1.6
-ghcr.io/hoarder-app/hoarder-workers:release
 # iotop
 esnunes/iotop:latest
 # mariadb
