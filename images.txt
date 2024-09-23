@@ -1,5 +1,3 @@
-# 115pc
-funcman/115pc:latest
 # alist
 xhofe/alist:latest
 # aliyunpan-sync
