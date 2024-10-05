@@ -52,6 +52,8 @@ gaoyb7/rclone:latest
 hectorqin/reader:latest
 # stash
 stashapp/stash:latest
+# systemd-ubuntu
+jrei/systemd-ubuntu:22.04
 # wallabag
 wallabag/wallabag:latest
 # xiaoya
