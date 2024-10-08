@@ -42,6 +42,8 @@ jc21/nginx-proxy-manager:latest
 gplane/pnpm:node21
 # pgyvpn
 bestoray/pgyvpn:latest
+# php
+php:apache
 # portainer
 portainer/portainer-ce:latest
 # qbittorrentee
