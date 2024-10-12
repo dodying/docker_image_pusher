@@ -22,6 +22,8 @@ filebrowser/filebrowser:latest
 ghcr.io/hoarder-app/hoarder:release
 gcr.io/zenika-hub/alpine-chrome:123
 getmeili/meilisearch:v1.6
+# insomnia
+kasmweb/insomnia:1.16.0
 # iotop
 esnunes/iotop:latest
 # mariadb
