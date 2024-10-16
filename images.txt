@@ -58,6 +58,8 @@ hectorqin/reader:latest
 stashapp/stash:latest
 # systemd-ubuntu
 jrei/systemd-ubuntu:22.04
+# ubuntu
+ubuntu:22.04
 # vaultwarden
 vaultwarden/server:latest
 # verdaccio
