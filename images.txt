@@ -54,6 +54,8 @@ superng6/qbittorrentee:latest
 gaoyb7/rclone:latest
 # reader
 hectorqin/reader:latest
+# redis
+redis:latest
 # stash
 stashapp/stash:latest
 # systemd-ubuntu
