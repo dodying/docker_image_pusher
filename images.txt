@@ -1,45 +1,47 @@
+# 115docker
+xiuxiu10201/115:latest
 # alist
 xhofe/alist:latest
 # aliyunpan-sync
-tickstep/aliyunpan-sync:v0.3.3
+tickstep/aliyunpan-sync:v0.3.7
 # aria2
 superng6/aria2:latest
 # baidunetdisk
 johngong/baidunetdisk:latest
+# bitcomet
+wxhere/bitcomet:latest
 # clash
 dreamacro/clash:latest
-# dashdot
-mauricenino/dashdot:latest
+# cloudsaver
+jiangrui1994/cloudsaver:latest
 # dockge
 louislam/dockge:latest
 # dpanel
 dpanel/dpanel:latest
-# dweebui
-lllllllillllllillll/dweebui:latest
 # filebrowser
 filebrowser/filebrowser:latest
 # hoarder
 ghcr.io/hoarder-app/hoarder:release
 gcr.io/zenika-hub/alpine-chrome:123
 getmeili/meilisearch:v1.6
-# insomnia
-kasmweb/insomnia:1.16.0
-# iotop
-esnunes/iotop:latest
+# iptv-sources
+herberthe0229/iptv-sources:latest
+# jellyfin
+nyanmisaka/jellyfin:latest
+# kavita
+linuxserver/kavita:latest
 # mariadb
 mariadb:latest
 # melody
 foamzou/melody:latest
-# memos
-ghcr.io/usememos/memos:latest
 # metube
 alexta69/metube:latest
 # mongo
 mongo:4.0.4
 # mysql-cron-backup
 fradelg/mysql-cron-backup:latest
-# nginx-proxy-manager
-jc21/nginx-proxy-manager:latest
+# nginx
+nginx:latest
 # nodejs
 gplane/pnpm:node21
 # pgyvpn
@@ -55,20 +57,24 @@ gaoyb7/rclone:latest
 # reader
 hectorqin/reader:latest
 # redis
-redis:latest
-# stash
-stashapp/stash:latest
+redis:alpine
+# redisinsight
+redislabs/redisinsight:latest
+# saveany-bot
+ghcr.io/krau/saveany-bot:latest
 # systemd-ubuntu
 jrei/systemd-ubuntu:22.04
-# ubuntu
-ubuntu:22.04
+# ubuntu-desktop
+gotoeasy/ubuntu-desktop:latest
+# uif
+ui4freedom/uif:latest
 # vaultwarden
 vaultwarden/server:latest
 # verdaccio
 verdaccio/verdaccio:latest
+# vscode
+linuxserver/code-server:latest
 # wallabag
 wallabag/wallabag:latest
-# xiaoya
-ghcr.io/monlor/xiaoya-alist:latest
-ghcr.io/monlor/xiaoya-metadata:latest
-ghcr.io/monlor/xiaoya-embyserver:latest
+# zerotier
+zerotier/zerotier:latest
